@@ -9,9 +9,6 @@ Built with width's from 1-24 columns.
 
 ## Installation
 
-```js
-npm install steel-grid
-```
 Download or clone this repo, then include `steel-grid.css` or `steel-grid.min.css` in your working folder and point to the CSS path in your HTML:
 
 `<link rel="stylesheet" href="./steel-grid.css">` 
