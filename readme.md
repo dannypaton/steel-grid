@@ -4,6 +4,9 @@ A simple and easy to use grid system built with CSS for layouts.
 
 Built with width's from 1-24 columns.
 
+example of grid in use: `<a href="https://dannypaton.github.io/steel-grid/"></a>` 
+
+
 ## Installation
 
 ```js
@@ -11,9 +14,9 @@ npm install steel-grid
 ```
 Download or clone this repo, then include `steel-grid.css` or `steel-grid.min.css` in your working folder and point to the CSS path in your HTML:
 
-`<link rel="stylesheet" href="../css/steel-grid.css">` 
+`<link rel="stylesheet" href="./steel-grid.css">` 
 or
-`<link rel="stylesheet" href="../css/steel-grid.min.css">`
+`<link rel="stylesheet" href="./steel-grid.min.css">`
 
 ## Quick Start
 
