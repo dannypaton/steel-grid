@@ -4,7 +4,7 @@ A simple and easy to use grid system built with CSS for layouts.
 
 Built with width's from 1-24 columns.
 
-[Click to see grid example in use](https://dannypaton.github.io/steel-grid) 
+[Click to see grid example in use!](https://dannypaton.github.io/steel-grid) 
 
 
 ## Installation
